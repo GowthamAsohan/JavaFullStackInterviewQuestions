@@ -1,3 +1,6 @@
-Creational Pattern
-Structural Pattern
-Behavioural Pattern
+1.Creational Pattern : It involve object instantiation and all provide a way to decouple a client from the objects it need to instantiate.
+2.Structural Pattern : It describes how classes or Objects are composed to create new structure or new responsibility. 
+3.Behavioural Pattern : It is concerned with how objects and classes interact and distributes responsibility.
+
+
+
