@@ -2,5 +2,22 @@
 2.Structural Pattern : It describes how classes or Objects are composed to create new structure or new responsibility. 
 3.Behavioural Pattern : It is concerned with how objects and classes interact and distributes responsibility.
 
+!. Creational Pattern:
+
+Factory Pattern: Factory Method is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
+Abstract Factory Pattern: Abstract Factory is a creational design pattern that lets you produce families of related objects without specifying their concrete classes.
+Singleton Pattern: Singleton is a creational design pattern that lets you ensure that a class has only one instance, while providing a global access point to this instance.
+Prototype Pattern: Prototype is a creational design pattern that lets you copy existing objects without making your code dependent on their classes.
+Builder Pattern:
+
+@.Structural Pattern: 
+
+Decorator Pattern : Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+Proxy Pattern : Proxy is a structural design pattern that lets you provide a substitute or placeholder for another object. A proxy controls access to the original object, allowing you to perform something either before or after the request gets through to the original object.
+Composite Pattern : Composite is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
+Adapter Pattern : Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
+
+
+
 
 
